@@ -1,3 +1,20 @@
+# GRID DESIGN
+
+![image](https://user-images.githubusercontent.com/109234037/199164244-ba20ff9b-d159-4d7b-ae94-b7ae58c7899d.png)
+
+
+# HOVER EFFECT
+
+![image](https://user-images.githubusercontent.com/109234037/199164273-e2835754-bde8-4e71-973d-614952615652.png)
+
+
+
+
+
+
+              **********************************************************************************************
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
